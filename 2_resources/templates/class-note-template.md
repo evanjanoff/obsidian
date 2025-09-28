@@ -1,0 +1,4 @@
+---
+date: "{{date}}"
+course-name:
+---
