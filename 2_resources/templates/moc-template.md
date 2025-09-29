@@ -1,5 +1,5 @@
 ---
-note-type: moc
+note-type: MOC
 aliases:
 tags:
 ---
