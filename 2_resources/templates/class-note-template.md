@@ -1,6 +1,6 @@
 ---
 note-type: class-note
-date: "{{date}}"
+created: "{{date}}"
 course-name:
 tags:
 ---

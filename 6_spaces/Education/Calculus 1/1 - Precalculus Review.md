@@ -1,6 +1,6 @@
 ---
 note-type: class-note
-date: 2025-09-28
+created: 2025-09-28
 course-name: "[[Calculus 1]]"
 ---
 - # Lines in the Plane
