@@ -1,0 +1,17 @@
+---
+note-type: class-note
+date: 2025-09-28
+course-name: "[[Introduction to Web Development]]"
+---
+- # Internet vs World Wide Web
+	- ## What is the Internet?
+		- A global computer network which grew out of the DoD Arpanet. The physical infrastructure  which connects almost everything today.
+	- ## What is the World Wide Web?
+		- The collection of information and resources accessible over the internet.
+			- **Web 1.0**: The earliest form of the internet where people and clients posted information as websites.
+			- **Web 2.0**: A shift toward social media and surveillance capitalism.
+			- **Web 3.0**: The web as it exists today, natural language search, AI slop, enshittification.
+	- ## How does the internet work?
+		- Networks, and the individual hosts on the networks are able to communicate through a series of **protocols**, sets of standards and rules about how data is exchanged.
+		- To access the information on the web a computer (client), makes a request to another computer (server). The server receives the request then responds to the client and attempts to fulfill the request. Server responses come with a code that explain why the response was processed the way it was.
+		- For technical details see [[Computer Networking]]
