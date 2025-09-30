@@ -1,5 +1,6 @@
 ---
 note-type: MOC
-aliases:
+created: "{{date}} {{time}}"
 tags:
+aliases:
 ---
