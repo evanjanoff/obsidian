@@ -1,7 +1,7 @@
 ## Folders
 - Inbox/pending/temp: The place to capture notes. Default location for new notes. Imports to be processed go here.
 - Overviews/MOCs/Home/Contents/Index/atlas: Explains the structure of the vault, works as a jumping off point.
-- Resources/Assets:
+- Resources/Assets/Sources:
 - Notes/Archive/Encyclopedia/Bits:
 - Timeline/Daily:
 - Spaces: Areas of responsibility and/or interest that require action. Each space is made up of several sub-folders.
