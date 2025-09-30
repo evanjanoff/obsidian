@@ -15,4 +15,6 @@
 - Encyclopedia: Storage place for all notes not directly related to a space.
 - Spaces: Areas of responsibility and/or interest that require action. Each space is made up of several sub-folders.
 	- MOC: Folder note that works as index and jumping off point.
-	- Support materials: Files directly related to the space in question.
+	- Notes: All of the .md files associated with the topic that don't belong in the other sections.
+	- Assets: Files directly related to the space in question.
+	- Projects: 
