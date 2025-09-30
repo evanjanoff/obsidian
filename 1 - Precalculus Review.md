@@ -41,7 +41,7 @@ course-name: "[[Calculus 1]]"
 	- $\lfloor x\rfloor=\begin{cases}x\text{ if x is an integer}\\\text{the closest integer < x if x is not an integer}\end{cases}$
 - ## Trig Functions
 	- Trig formulas and identities:
-		- ![[trig-cheat-sheet.pdf]]
+		- [[trig-cheat-sheet.pdf]]
 - ## Exponential and Logarithmic Functions
 	- ### Logarithm Definition
 		- $y=\log_{a}x\text{ if }a^{y}=x\text{ where }a>0\text{ and }a\text{ }\ne1$
