@@ -1,6 +1,5 @@
 ---
 note-type: MOC
-created: 2025-09-30 07:48
 tags:
 aliases:
 ---

@@ -1,6 +1,5 @@
 ---
 note-type: class-note
-created: 2025-09-28
 tags:
 related-concepts: "[[Math]]"
 course-name: "[[Calculus 1]]"
