@@ -17,3 +17,4 @@ aliases:
 ## Installed Plugins
 - Folder Notes
 - Git
+- 
