@@ -4,4 +4,4 @@ tags:
 aliases:
 ---
 ## Overview
-- Default location for new notes.
+- 

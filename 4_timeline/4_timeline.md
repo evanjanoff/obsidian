@@ -4,4 +4,4 @@ tags:
 aliases:
 ---
 ## Overview
-- 
+- Location for daily notes.
