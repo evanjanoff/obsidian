@@ -2,6 +2,18 @@
 note-type: MOC
 tags:
 aliases:
+  - Guidebook
 ---
 ## Overview
-- Guide for how to use this vault. 
+- Guide to my second brain.
+## Main Sections
+- [[0_guidebook|Guidebook]]
+- [[1_inbox|Inbox]]
+- [[2_assets|Assets]]
+- [[3_notes|Notes]]
+- [[4_timeline|Timeline]]
+- [[5_spaces|Spaces]]
+
+## Installed Plugins
+- Folder Notes
+- Git

@@ -2,6 +2,7 @@
 note-type: MOC
 tags:
 aliases:
+  - Inbox
 ---
 ## Overview
-- Default location for new notes.
+- The place to capture notes. Default location for new notes. Imports to be processed go here.

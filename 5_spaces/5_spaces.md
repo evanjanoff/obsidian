@@ -2,6 +2,7 @@
 note-type: MOC
 tags:
 aliases:
+  - Spaces
 ---
 ## Overview
 - Areas of responsibility and/or interest that require action. Each space is made up of:
