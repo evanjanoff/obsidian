@@ -13,8 +13,9 @@ aliases:
 - [[3_notes|Notes]]
 - [[4_timeline|Timeline]]
 - [[5_spaces|Spaces]]
-
 ## Installed Plugins
+- Theme: 
+	- Minimal
+	- Minimal Theme Plugin
 - Folder Notes
 - Git
-- 
