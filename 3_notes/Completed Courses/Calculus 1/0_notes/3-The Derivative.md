@@ -47,15 +47,15 @@ course-name: "[[Calculus 1]]"
 	- $D\left\lbrack\sec x\right\rbrack=\sec x\tan x$
 	- $D\left\lbrack\csc x\right\rbrack=-\csc x\cot x$
 	- $D\left\lbrack\cot x\right\rbrack=-\csc^2x$
-### Higher Order Derivative
-
-| Level          | y-notation | d-notation          | f-notation   | D-notation  |
-| -------------- | ---------- | ------------------- | ------------ | ----------- |
-| 1st Derivative | $y'$       | $\frac{dy}{dx}$     | $f'(x)$      | $D[f(x)]$   |
-| 2nd Derivative | $y''$      | $\frac{d^2y}{dx^2}$ | $f''(x)$     | $D^2[f(x)]$ |
-| 3rd Derivative | $y'''$     | $\frac{d^3y}{dx^3}$ | $f'''(x)$    | $D^3[f(x)]$ |
-| 4th Derivative | $y^{(4)}$  | $\frac{d^4y}{dx^4}$ | $f^{(4)}(x)$ | $D^4[f(x)]$ |
-| nth Derivative | $y^{(n)}$  | $\frac{d^ny}{dx^n}$ | $f^{(n)}(x)$ | $D^n[f(x)]$ |
+- ### Higher Order Derivative
+>[!info]- Derivative Notations
+>| Level          | y-notation | d-notation          | f-notation   | D-notation  |
+>| -------------- | ---------- | ------------------- | ------------ | ----------- |
+>| 1st Derivative | $y'$       | $\frac{dy}{dx}$     | $f'(x)$      | $D[f(x)]$   |
+>| 2nd Derivative | $y''$      | $\frac{d^2y}{dx^2}$ | $f''(x)$     | $D^2[f(x)]$ |
+>| 3rd Derivative | $y'''$     | $\frac{d^3y}{dx^3}$ | $f'''(x)$    | $D^3[f(x)]$ |
+>| 4th Derivative | $y^{(4)}$  | $\frac{d^4y}{dx^4}$ | $f^{(4)}(x)$ | $D^4[f(x)]$ |
+>| nth Derivative | $y^{(n)}$  | $\frac{d^ny}{dx^n}$ | $f^{(n)}(x)$ | $D^n[f(x)]$ |
 ## The Chain Rule
 - ### Basic Functions
 	- If: $y=f(u)$ is a composite function where $u$ is a function of $x$
