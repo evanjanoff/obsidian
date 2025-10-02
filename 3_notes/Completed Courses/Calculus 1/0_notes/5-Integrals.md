@@ -46,19 +46,23 @@ course-name: "[[Calculus 1]]"
 		- Parse the formula to find $\Delta x$ and $f(x_k)$
 		- Use those values and the formulas above to find $a$ and $b$.
 - ### Properties of the Definite Integral
-| Property                                                              | Formula                                                                                                                | In Words                                                                                                          |
+>[!info]- Properties
+>| Property                                                              | Formula                                                                                                                | In Words                                                                                                          |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Definite integral when lower and upper bounds are equal               | $\int_{a}^{a}f\left(x\right)\mathrm{d}x=0$                                                                             | When limits of integration are equal, the value of the definite integral is 0.                                    |
 | Definite integral when upper and lower bounds are interchanged        | $\int_{b}^{a}f\left(x\right)\mathrm{d}x=-\int_{a}^{b}f\left(x\right)\mathrm{d}x$                                       | When the order of the limits of integration are interchanged, the values of the definite integrals are opposites. |
 | Definite integral of a constant function                              | $\int_{a}^{b}kdx=k\left(b-a\right)$                                                                                    | The definite integral of a constant is equal to the constant multiplied by the width of the interval $(b-a)$.     |
 | Definite integral of a constant multiple function                     | $\int_{a}^{b}k\cdot f\left(x\right)\mathrm{d}x=k\int_{a}^{b}f\left(x\right)\mathrm{d}x$                                | The constant $k$ can be moved outside, and the definite integral of $f(x)$ is multiplied by $k$.                  |
 | Definite integral over a partition of an interval, with $a\le b\le c$ | $\int_{a}^{b}f\left(x\right)\mathrm{d}x+\int_{b}^{c}f\left(x\right)\mathrm{d}x=\int_{a}^{c}f\left(x\right)\mathrm{d}x$ | Adding areas.                                                                                                     |
-- ### Properties of Definite Integrals of Combined Functions
 
-| Property                                           | Formula                                                                                                                                                          | In Words                                                                                                            |
+- ### Properties of Definite Integrals of Combined Functions
+>[!info]- Properties
+>| Property                                           | Formula                                                                                                                                                          | In Words                                                                                                            |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Definite integral of a sum of two functions        | $\int_{a}^{b}\left\lbrack f\left(x\right)+g\left(x\right)\right\rbrack\mathrm{d}x=\int_{a}^{b}f\left(x\right)\mathrm{d}x+\int_{a}^{b}g\left(x\right)\mathrm{d}x$ | The definite integral of a sum of two functions is the sum of the definite integral of the functions.               |
 | Definite integral of a difference of two functions | $\int_{a}^{b}\left\lbrack f\left(x\right)-g\left(x\right)\right\rbrack\mathrm{d}x=\int_{a}^{b}f\left(x\right)\mathrm{d}x-\int_{a}^{b}g\left(x\right)\mathrm{d}x$ | The definite integral of a difference of two functions is the difference of the definite integral of the functions. |
+
+
 - ### Comparison Properties
 	- *Comparing Two Functions*
 		- If $f(x)\le g(x)$ on $[a,b]$ then $\int_{a}^{b}f\left(x\right)\mathrm{d}x\le\int_{a}^{b}g\left(x\right)\mathrm{d}x$.
