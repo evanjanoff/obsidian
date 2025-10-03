@@ -4,7 +4,7 @@ tags:
 aliases:
   - Guidebook
 ---
-## Overview
+## Summary
 - Guide to my second brain.
 ## Main Sections
 - [[0_guidebook|Guidebook]]

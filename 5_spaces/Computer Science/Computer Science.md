@@ -3,7 +3,7 @@ note-type: MOC
 tags:
 aliases:
 ---
-## Overview
+## Summary
 - Landing page for my growing understanding of the theory and application of computer science.
 ## Core Concepts of Computer Science
 - The study of computer science can be broadly divided into 10 core areas of study:

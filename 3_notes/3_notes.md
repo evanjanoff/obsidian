@@ -4,5 +4,5 @@ tags:
 aliases:
   - Notes
 ---
-## Overview
+## Summary
 - Long term storage for all notes not related to specific areas.

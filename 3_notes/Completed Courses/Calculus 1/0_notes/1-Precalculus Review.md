@@ -1,7 +1,8 @@
 ---
 note-type: class-note
 tags:
-related-concepts: "[[Math]]"
+related-concepts:
+  - "[[Math]]"
 course-name: "[[Calculus 1]]"
 ---
 ## Lines in the Plane

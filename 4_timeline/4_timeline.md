@@ -4,5 +4,5 @@ tags:
 aliases:
   - Timeline
 ---
-## Overview
+## Summary
 - Location for daily notes.

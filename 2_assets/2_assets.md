@@ -4,5 +4,5 @@ tags:
 aliases:
   - Assets
 ---
-## Overview
+## Summary
 - Location for non-note files not associated with specific areas.
